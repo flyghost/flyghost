@@ -25,7 +25,7 @@
 
 ### 关于我
 
-- [博客](www.creekwater.cn)
+- [博客](https://www.creekwater.cn/)
 - [CSDN](www.blog.csdn.net/qq_20314133)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
