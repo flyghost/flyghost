@@ -2,7 +2,8 @@
 
 [![GIF](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
 
-### I'm CreekWater
+### Hi there 👋I'm CreekWater
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuang01&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - Electronic communication graduate students & open source enthusiasts.
 - 🌱 Currently working in NanJing, China.
